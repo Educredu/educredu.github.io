@@ -621,7 +621,7 @@ p {
 }
 #fh5co-services .service .icon i {
   font-size: 40px;
-  color: #57D131;
+  color: #B22326;
 }
 #fh5co-services .service h3 {
   text-align: center;
@@ -696,7 +696,7 @@ p {
 #fh5co-team {
   clear: both;
   padding: 7em 0;
-  background: #E8ECF1;
+  background: #999999;
 }
 @media screen and (max-width: 768px) {
   #fh5co-team {
